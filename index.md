@@ -1,5 +1,5 @@
 ##  Моя особиста сторінка  
-* * Привіт, мене звати  Олена,  я починаючий  програміст
+*Привіт, мене звати  Олена,  я починаючий  програміст.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
