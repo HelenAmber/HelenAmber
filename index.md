@@ -2,10 +2,13 @@
 ##  Моя особиста сторінка
 Привіт, мене звати  Олена,  я починаючий  програміст.
 
-### Контактная информация
+### Контактна інформація
 
-Профиль Linedin
-linkedin.com/in/olena-nisman-a9ab06225
-Адрес эл. почты
-elena.nisman85@gmail.com
+Профіль Linedin
+linkedin.com/in/olena-nisman-a9ab06225 ;
+
+Адреса електроної пошти:
+elena.nisman85@gmail.com;
+
+
 
