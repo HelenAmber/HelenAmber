@@ -24,9 +24,14 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Контактная информация
 
-(https://www.linkedin.com/in/olena-nisman-a9ab06225/)
+Профиль Linedin
+linkedin.com/in/olena-nisman-a9ab06225
+Номер телефона
++380668189869 (Мобильный)
+Адрес эл. почты
+elena.nisman85@gmail.com
 
 ### Support or Contact
 
