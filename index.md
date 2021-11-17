@@ -7,7 +7,7 @@
 Профіль Linedin
 linkedin.com/in/olena-nisman-a9ab06225 ;
 
-Адреса електроної пошти:
+Адреса електронної пошти:
 elena.nisman85@gmail.com;
 
 
