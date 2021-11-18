@@ -4,8 +4,7 @@
 ### Контактна інформація:
 
 Профіль Linedin:
-linkedin.com/in/olena-nisman-a9ab06225 ;
-
+linkedin.com/in/olena-nisman-a9ab06225 ;</br>
 Адреса електронної пошти:
 elena.nisman85@gmail.com;
 
