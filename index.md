@@ -11,6 +11,10 @@ linkedin.com/in/olena-nisman-a9ab06225 ;
 elena.nisman85@gmail.com;
 
 ### Навички:
+Досвід роботи з MS Office (Word, Exсel, Access, Power Point), сервіси Google, Aqua Data Studio, Virtual Studio Code.
+
+У період роботи в банку навчалася роботі з базами даних, 04.12.2020 отримано сертифікат після закінчення курсу Основи SQL SAP IQ (виданий Департаментом інформаційних технологій ПриватБанку).
+Також, самостійно вивчала основи HTML, CSS та програмування мовою JavaScript.
 
 ### Інтереси:
 
