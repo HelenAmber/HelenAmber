@@ -46,3 +46,5 @@ _"Вивчаємо програмування на JavaScript", Е. Фрімен
 
 Адреса електронної пошти:
 elena.nisman85@gmail.com;
+
+Skype: dn171085nev;
