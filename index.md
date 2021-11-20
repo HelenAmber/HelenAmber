@@ -42,7 +42,7 @@ _"Вивчаємо програмування на JavaScript", Е. Фрімен
 ### Контактна інформація:
 
 Профіль Linedin:
-www.linkedin.com/in/olena-nisman-a9ab06225/ ;
+[Olena Nisman](www.linkedin.com/in/olena-nisman-a9ab06225/ ;)
 
 Адреса електронної пошти:
 elena.nisman85@gmail.com;
