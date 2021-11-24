@@ -1,5 +1,4 @@
  <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
   <img src="https://github.com/HelenAmber/HelenAmber/blob/gh-pages/20211123155500_IMG_4871_11111.jpg" width="350" alt="accessibility text">
 </p> 
    Привіт, мене звати Нiсман Олена, я починаючий програміст. Мій шлях в світі інформаційних технологій розпочався
