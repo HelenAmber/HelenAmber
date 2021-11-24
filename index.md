@@ -1,5 +1,5 @@
  <p align="center">
-<img src="https://github.com/HelenAmber/HelenAmber/blob/gh-pages/20211123155500_IMG_4871_11111.png?raw=true" alt="my_photo">
+<img src="https://github.com/HelenAmber/HelenAmber/blob/gh-pages/my_photo.PNG?raw=true" alt="my_photo">
  </p>
    Привіт, мене звати Нiсман Олена, я починаючий програміст. Мій шлях в світі інформаційних технологій розпочався
 у 2020 році на курсі вивчення мови програмування SQL. У зв'язку з пандемією закінчити курс не вдалося,
