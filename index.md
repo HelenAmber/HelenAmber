@@ -17,7 +17,7 @@ _"Вивчаємо програмування на JavaScript", Е. Фрімен
 
 ### Навички:
 
-Досвід роботи з MS Office (Word, Exсel, Access, Power Point), сервіси Google, Aqua Data Studio, Virtual Studio Code.
+Досвід роботи з MS Office (Word, Exсel, Access, Power Point), сервіси Google, Aqua Data Studio, MS SQL Server, MySQL, Virtual Studio Code.
 
 ### Мови:
 
