@@ -13,7 +13,7 @@
 _"Вивчаємо програмування на JavaScript", Е. Фрімен & Е. Робсон;
 "Вивчаємо HTML, XHTML и CSS", Е. Фрімен & Е. Фрімен;
 "Вивчаємо програмування на HTML5", Е. Фрімен & Е. Робсон;
-Онлайн книга_ ["Сучасний підручник JavaScript"](https://learn.javascript.ru/).
+Онлайн книга_ ["Сучасний підручник JavaScript"](https://learn.javascript.ru/). Резуьтати тестування за [посиланням](https://learn.javascript.ru/profile/elena155/account).
 
 ### Досвід роботи:
 
