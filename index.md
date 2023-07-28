@@ -57,3 +57,11 @@
   <p align="center">
 <img src="IMG_20230512_154108157.jpg" alt="indian">
  </p> 
+
+  <p align="center">
+<img src="IMG_20230728_152919639.jpg" alt="lips">
+ </p> 
+
+  <p align="center">
+<img src="IMG_20230728_155637788.jpg" alt="nose">
+ </p> 
