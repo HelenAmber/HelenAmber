@@ -69,3 +69,22 @@
   <p align="center">
 <img src="IMG_20230728_155637788.jpg" alt="nose">
  </p> 
+
+ ### Полотно (бавовна, акрил), акрилові фарби, текстурна паста
+
+  <p align="center">
+<img src="IMG_20230529_150558249-01.jpeg" alt="bird">
+ </p> 
+
+  <p align="center">
+<img src="PhotoRoom-20230523_123345-01.jpeg" alt="pion">
+ </p> 
+
+ <p align="center">
+<img src="PhotoRoom-20230530_172907 (1)-02.jpeg" alt="tulip">
+ </p> 
+
+ <p align="center">
+<img src="IMG_20230529_150558249-01.jpeg" alt="nose">
+ </p> 
+
