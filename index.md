@@ -55,5 +55,5 @@
  </p> 
 
   <p align="center">
-<img src="IMG_20230512_154108157.jpg" alt="eye">
+<img src="IMG_20230512_154108157.jpg" alt="indian">
  </p> 
