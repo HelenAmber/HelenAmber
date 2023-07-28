@@ -157,3 +157,29 @@
   <p align="center">
 <img src="20220807114345_IMG_5688_1.jpg" alt="ksu">
  </p>
+ 
+### Гелева ручка, листи А4
+
+<p align="center">
+<img src="IMG_20230209_155335561.jpg" alt="ksu">
+ </p>
+
+ <p align="center">
+<img src="IMG_20230307_155916001.jpg" alt="ksu">
+ </p>
+
+  <p align="center">
+<img src="IMG_20230307_190258618.jpg" alt="ksu">
+ </p>
+
+ <p align="center">
+<img src="IMG_20230309_182223238.jpg" alt="ksu">
+ </p>
+
+  <p align="center">
+<img src="IMG_20230317_142237197.jpg" alt="ksu">
+ </p>
+
+  <p align="center">
+<img src="IMG_20230406_141137338.jpg" alt="ksu">
+ </p>
