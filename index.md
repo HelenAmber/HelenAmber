@@ -84,7 +84,5 @@
 <img src="PhotoRoom-20230530_172907 (1)-02.jpeg" alt="tulip">
  </p> 
 
- <p align="center">
-<img src="IMG_20230529_150558249-01.jpeg" alt="nose">
- </p> 
+
 
