@@ -23,10 +23,6 @@
  </p>
 
   <p align="center">
-<img src="IMG_1690281183178.png" alt="my_photo">
- </p>
-
-  <p align="center">
 <img src="IMG_1689688955428.png" alt="my_photo">
  </p>
 
