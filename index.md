@@ -85,7 +85,75 @@
  </p> 
 
  <p align="center">
-<img src="PhotoRoom-20230728_165701-01.jpeg" alt="tulip">
+<img src="PhotoRoom-20230728_165701-01.jpeg" alt="colibri">
  </p> 
 
+  #### Бавовняний одяг, акрилові фарби, акрилові маркери
 
+   <p align="center">
+<img src="20220811131411_IMG_5698_1.jpg" alt="ksu">
+ </p> 
+
+ <p align="center">
+<img src="photo_2022-10-18_14-56-50.jpg" alt="ksu">
+ </p> 
+
+  <p align="center">
+<img src="20220616164710_IMG_4915-01.jpeg" alt="ksu">
+ </p> 
+
+ <p align="center">
+<img src="photo_2022-10-18_13-10-24.jpg" alt="ksu">
+ </p> 
+
+ <p align="center">
+<img src="photo_2022-10-31_17-00-20.jpg" alt="ksu">
+ </p> 
+
+ <p align="center">
+<img src="1.jpg" alt="ksu">
+ </p> 
+
+  <p align="center">
+<img src="зображення_viber_2022-08-18_12-28-13-658.jpg" alt="ksu">
+ </p> 
+
+ <p align="center">
+<img src="photo_2022-10-18_13-40-36.jpg" alt="ksu">
+ </p> 
+
+  <p align="center">
+<img src="9.jpeg" alt="ksu">
+ </p> 
+
+  <p align="center">
+<img src="photo_2022-11-01_17-11-50.jpg" alt="ksu">
+ </p> 
+
+  <p align="center">
+<img src="7.jpeg" alt="ksu">
+ </p>
+
+ <p align="center">
+<img src="20221130115446_IMG_5877.JPG" alt="ksu">
+ </p>
+
+ <p align="center">
+<img src="IMG_20230503_133629135.jpg" alt="ksu">
+ </p>
+
+  <p align="center">
+<img src="IMG_20230523_135832814-01.jpeg" alt="ksu">
+ </p>
+
+ <p align="center">
+<img src="IMG_20230605_135704035-01.jpeg" alt="ksu">
+ </p>
+
+ <p align="center">
+<img src="IMG_20230619_102442107.jpg" alt="ksu">
+ </p>
+
+  <p align="center">
+<img src="20220807114345_IMG_5688_1.jpg" alt="ksu">
+ </p>
