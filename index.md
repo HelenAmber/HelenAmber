@@ -3,7 +3,7 @@
  </p>
  
  <p align="center">
-<img src="IMG_1689685617548.png" alt="ornella_muti_portrait">
+<img src="IMG_1689685617548.png" alt="loren_sophia_portrait">
  </p>
 
   <p align="center">
