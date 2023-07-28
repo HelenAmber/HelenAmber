@@ -1,4 +1,4 @@
-### My summary here
+### My portfolio here
 
 <!--
 **HelenAmber/HelenAmber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
