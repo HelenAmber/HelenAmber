@@ -27,7 +27,7 @@
  </p>
 
 <p align="center">
-<img src="IMG_1690281183178.png" alt="jessica_alba_portrait">
+<img src="IMG_1690281183178.png" alt="indiana_jones_portrait">
  </p>
 
 
