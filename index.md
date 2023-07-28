@@ -59,7 +59,7 @@
  </p> 
 
   <p align="center">
-<img src="IMG_20230728_155937672.jpg" alt="lips">
+<img src="IMG_20230728_155937672.jpg" alt="lip">
  </p> 
 
   <p align="center">
