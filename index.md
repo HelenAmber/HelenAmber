@@ -31,27 +31,27 @@
  </p>
 
 <p align="center">
-<img src="IMG_20230707_164255463.jpg" alt="eye">
+<img src="IMG_20230707_164255463.jpg" alt="lion">
  </p>
 
 <p align="center">
-<img src="IMG_20230206_132929800.jpg" alt="eye">
+<img src="IMG_20230206_132929800.jpg" alt="lion">
  </p>
 
 <p align="center">
-<img src="IMG_20230206_173812086.jpg" alt="eye">
+<img src="IMG_20230206_173812086.jpg" alt="doberman">
  </p> 
 
  <p align="center">
-<img src="IMG_20230207_160759869.jpg" alt="eye">
+<img src="IMG_20230207_160759869.jpg" alt="eyes">
  </p> 
 
   <p align="center">
-<img src="IMG_20230728_143729429.jpg" alt="eye">
+<img src="IMG_20230728_143729429.jpg" alt="lips">
  </p> 
 
   <p align="center">
-<img src=" IMG_20230728_152919639.jpg" alt="eye">
+<img src="IMG_20230728_152919639.jpg" alt="eye">
  </p> 
 
 
